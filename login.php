@@ -90,7 +90,11 @@
             </div>
 
 
-            <button style="margin: 0 auto" type="submit" class="btn btn-primary">Đăng ký</button>
+            <div class="d-flex">
+                <button style="margin: 0 auto" type="submit" class="btn btn-primary">Đăng nhập</button>
+                <span>hoặc</span>
+                <a href="/register.php" style="margin: 0 auto" type="submit" class="btn btn-warning">Đăng ký</a>
+            </div>
         </form>
 
 

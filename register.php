@@ -72,7 +72,11 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
             </div>
 
 
-            <button style="margin: 0 auto" type="submit" class="btn btn-primary">Đăng ký</button>
+            <div class="d-flex">
+                <button style="margin: 0 auto" type="submit" class="btn btn-primary">Đăng ký</button>
+                <span>hoặc</span>
+                <a href="/login.php" style="margin: 0 auto" type="submit" class="btn btn-warning">Đăng nhập</a>
+            </div>
         </form>
 
 
