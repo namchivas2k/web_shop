@@ -1,0 +1,38 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: inherit;
+}
+
+.app{
+    min-height: calc(100vh - (56px + 152px));
+}
+
+.item-product-card{
+    width: 200px !important;
+    padding: 1px;
+    overflow: hidden;
+}
+
+
+.item-image-product{
+    width: 200px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.item-product-card .card-title{
+    max-width: 180px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.product-price{
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+}
