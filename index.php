@@ -20,7 +20,7 @@
 
 
 
-    <title>Thế giớ thời trang </title>
+    <title>Thế giới mua sắm</title>
 </head>
 
 
