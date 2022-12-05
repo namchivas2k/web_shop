@@ -128,7 +128,7 @@ $quanAo = [
         [
             'id' => 115,
             'name' => 'Bộ đồ nam y hình, vải êm, mát, không ra màu, không đổ lông',
-            'price' => 66000,
+            'price' => 6000,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/e0/d0/c3/91e4077fd51d32a98087b40138c73f6c.jpg.webp',
             'detail' => [
